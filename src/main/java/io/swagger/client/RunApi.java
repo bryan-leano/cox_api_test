@@ -12,7 +12,7 @@ import javax.persistence.criteria.CriteriaBuilder;
 import java.io.File;
 import java.util.*;
 
-public class ClientApiExample {
+public class RunApi {
 
     public static void main(String[] args) {
 
